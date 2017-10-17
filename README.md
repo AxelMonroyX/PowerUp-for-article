@@ -1,5 +1,5 @@
 # PowerUp-for-article
-To start the proyect use 
+To start the project use 
 ```sh
 npm install && DEBUG=* npm start
 ```
