@@ -1,0 +1,16 @@
+{
+    "name": "Tu primer PowerUp",
+    "details": "Tu primer PowerUp con la ayuda de NearsoftBlogs",
+    "icon": {
+      "url": "./images/logo.png"
+    },
+    "author": "Trello Inc",
+    "capabilities": [
+      "attachment-sections"
+    ],
+    "connectors": {
+      "iframe": {
+        "url": "./"
+      }
+    }
+  }
